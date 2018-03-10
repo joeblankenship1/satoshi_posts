@@ -1,0 +1,6 @@
+Re: Building Bitcoin 0.3
+  
+  Bitcointalk
+  
+	2010-07-14 17:34:50 UTC - Original Post
+  It doesn't work with wxWidgets 2.8, it needs wxWidgets 2.9.  Unfortunately, there isn't a Debian package of wxWidgets 2.9 yet.

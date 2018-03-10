@@ -1,0 +1,6 @@
+Re: tcatm's 4-way SSE2 for Linux 32/64-bit 0.3.9 rc2
+  
+  Bitcointalk
+  
+	2010-08-16 03:23:04 UTC - Original Post
+  Quote from: Vasiliev on August 16, 2010, 03:17:07 AMtry -march=amdfam10That works.That's strange...  are we sure that's the same thing?  tcatm, try amdfam10 and make sure you get the same speed measurement.

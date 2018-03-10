@@ -1,0 +1,6 @@
+Re: blocks minus 1
+  
+  Bitcointalk
+  
+	2010-08-16 17:06:27 UTC - Original Post
+  Done in SVN rev 137

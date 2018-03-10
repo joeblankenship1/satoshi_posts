@@ -1,0 +1,6 @@
+Re: Incompatible wallet format with latest bitcoin-git ?
+  
+  Bitcointalk
+  
+	2010-11-30 19:02:31 UTC - Original Post
+  What was this wallet used with?  An early accounts patch or git build?It's while loading the wallet.  I assume it must be in this:    else if (strType == "acentry")    {        string strAccount;        ssKey >> strAccount;        uint64 nNumber;        ssKey >> nNumber;        if (nNumber > nAccountingEntryNumber)            nAccountingEntryNumber = nNumber;    }You could check that with this:    else if (strType == "acentry")    {        string strAccount;        assert(!ssKey.empty());        ssKey >> strAccount;        uint64 nNumber;        if (ssKey.size() != 8 )            printf("***** %s %d\n", strAccount.c_str(), ssKey.size());        assert(ssKey.empty() == false);        ssKey >> nNumber;        if (nNumber > nAccountingEntryNumber)            nAccountingEntryNumber = nNumber;    }Was there an interim version of accounts on git at some point that had just ("acentry", "account") for the key?If you have gdb, you could run it in gdb and do a backtrace. gdb --args bitcoin ...run(wait for exception)bt

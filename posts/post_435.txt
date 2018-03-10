@@ -1,0 +1,6 @@
+Re: Warning : Check your system   ( Help me )
+  
+  Bitcointalk
+  
+	2010-09-06 21:41:06 UTC - Original Post
+  Quote from: Insti on September 06, 2010, 12:51:37 PMQuote from: satoshi on September 05, 2010, 11:36:20 PMAny suggestions for better text to put for this error message so the next person will be less likely to be confused?"Please check that your computer's date and time are correct. If your clock is wrong Bitcoin will not work properly."Thanks.

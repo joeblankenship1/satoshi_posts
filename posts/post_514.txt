@@ -1,0 +1,6 @@
+Re: New getwork
+  
+  Bitcointalk
+  
+	2010-11-26 21:31:13 UTC - Original Post
+  That's what it does, it returns true/false.

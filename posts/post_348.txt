@@ -1,0 +1,6 @@
+Bugfixes in SVN rev 130
+  
+  Bitcointalk
+  
+	2010-08-12 21:20:31 UTC - Original Post
+  Misc bugfixes in rev 130:fix -datadir with relative pathautostart is now off by default except on windowsfix occasional "vector iterator not dereferencable" assertion when compiled with msvcfix readlink compile warning on linux builduse sys/param.h and BSD define instead of __BSD__-paytxfee switch, e.g. -paytxfee=0.01

@@ -1,0 +1,6 @@
+Re: Building BitCoin Client completely Headless
+  
+  Bitcointalk
+  
+	2010-06-26 21:06:06 UTC - Original Post
+  The linux release candidate in the "1.3 almost ready" thread contains prebuilt bitcoind.

@@ -1,0 +1,6 @@
+tcatm's 4-way SSE2 for Linux 32/64-bit is in 0.3.10
+  
+  Bitcointalk
+  
+	2010-08-15 15:52:09 UTC - Original Post
+  0.3.10 has tcatm's 4-way SSE2 as an option switch.Use the switch "-4way" to turn it on.  Without the switch you get Crypto++ ASM SHA-256.I could only get this working with Linux.Download:Get 0.3.10 from http://bitcointalk.org/index.php?topic=827.0Please report back your CPU and results!  I think it's pretty clear that Core 2 and lower are slower, i5 faster.  I don't think we've heard any i7 results yet.  We need to know about the different models of AMD or other less common CPUs.

@@ -1,0 +1,6 @@
+Re: Internal version number
+  
+  Bitcointalk
+  
+	2010-09-23 18:46:20 UTC - Original Post
+  I don't think it should cause any problems for version comparisons.  31300 > 312.

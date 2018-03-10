@@ -1,0 +1,6 @@
+Re: Website and software translations
+  
+  Bitcointalk
+  
+	2010-10-04 19:21:01 UTC - Original Post
+  Quote from: eurekafag on October 04, 2010, 10:55:56 AMWhere can I find the latest English .po file to keep the translation up-to-date?poedit does it.  Either get the src directory from a release, or download it with SVN.  Place your .po file 3 directories deep under the src directory.  Open it with poedit and do Catalog->Update from sources.So for example, you have:srcsrc\base58.hsrc\bignum.h...src\util.cppsrc\util.hsrc\xpmsrc\locale\ru\LC_MESSAGES\bitcoin.poOpen bitcoin.po with poedit, do Catalog->Update from sources.  It looks for the sourcecode up 3 directories (..\..\..) from where bitcoin.po is.This updates your existing .po file you already worked on and adds any news strings.  It may try to match close strings, so check things over and make sure it didn't make any bad guesses.Make sure you use the .po file I uploaded to SVN or in a release, because I always fix up at least a few things.  I'm attaching your Russian one to this message.

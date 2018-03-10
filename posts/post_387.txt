@@ -1,0 +1,6 @@
+Re: tcatm's 4-way SSE2 for Linux 32/64-bit is in 0.3.10
+  
+  Bitcointalk
+  
+	2010-08-16 13:38:01 UTC - Original Post
+  I wrapped sha256.cpp in #ifdef FOURWAYSSE2#endif // FOURWAYSSE2try it now.

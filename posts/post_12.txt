@@ -1,0 +1,6 @@
+Re: Repost: Linux/UNIX compile
+  
+  Bitcointalk
+  
+	2009-11-27 17:27:09 UTC - Original Post
+  The Linux version is on its way.  Martti's Linux port was merged into the main code branch and New Liberty Standard has been testing it.  It'll be in the next release, version 0.2.Command line is on the to-do list after 0.2.

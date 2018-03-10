@@ -1,0 +1,6 @@
+Bitcoin 0.2 released!
+  
+  Bitcointalk
+  
+	2009-12-16 22:45:36 UTC - Original Post
+  Bitcoin version 0.2 is here!Download links:http://sourceforge.net/projects/bitcoin/files/Bitcoin/bitcoin-0.2.0-win32-setup.exe/downloadhttp://sourceforge.net/projects/bitcoin/files/Bitcoin/bitcoin-0.2.0-win32.zip/downloadhttp://sourceforge.net/projects/bitcoin/files/Bitcoin/bitcoin-0.2.0-linux.tar.gz/downloadNew FeaturesMartti Malmi - Minimize to system tray option - Autostart on boot option so you can keep it running in the background automatically - New options dialog layout for future expansion - Setup program for Windows - Linux version (tested on Ubuntu)Satoshi Nakamoto - Multi-processor support for coin generation - Proxy support for use with TOR - Fixed some slowdowns in the initial block downloadMajor thanks to Martti Malmi (sirius-m) for all his coding work and for hosting the new site and this forum, and New Liberty Standard for his help with testing the Linux version.

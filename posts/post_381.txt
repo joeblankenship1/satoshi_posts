@@ -1,0 +1,6 @@
+Re: overflow bug SERIOUS
+  
+  Bitcointalk
+  
+	2010-08-16 02:16:10 UTC - Original Post
+  The bad chain is also slowed down as more nodes upgrade.We've already generated 14 blocks since 74638.  The builds of 0.3.10 were uploaded about 2 and 3 hours ago.  Of the nodes I'm connected to, more than half are already 0.3.10.  I would say we probably already have more power than the bad chain.

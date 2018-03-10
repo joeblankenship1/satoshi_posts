@@ -1,0 +1,6 @@
+Re: No blocks downloaded... why?
+  
+  Bitcointalk
+  
+	2010-07-14 16:22:03 UTC - Original Post
+  So that was responsible for keeping blocks from downloading?The link: "Win32 CPU Cycles vs 'Live Protection' Engines"For BitcoinFX, Live Protection was keeping it from getting CPU for generating coins.  You said your friend was getting 1400-1600 khash/s, so it was getting CPU.  I guess Live Protection must have been blocking some other part of the program then?

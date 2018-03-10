@@ -1,0 +1,6 @@
+Re: checkpointing the block chain
+  
+  Bitcointalk
+  
+	2010-08-16 23:01:48 UTC - Original Post
+  Quote from: NewLibertyStandard on August 16, 2010, 10:42:28 PMHow is the strength of the chain calculated?Total proof-of-work.

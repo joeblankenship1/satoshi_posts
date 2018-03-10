@@ -1,0 +1,6 @@
+Version 0.3.2.5 -- please test!
+  
+  Bitcointalk
+  
+	2010-07-24 03:32:52 UTC - Original Post
+  Please test 0.3.2.5 in preparation for the 0.3.3 release!  This build is looking good and should be the one that goes into 0.3.3.  I encourage you to go ahead and upgrade now if you're on Windows or Linux.New features:- Gavin Andresen's HTTP authentication to secure JSON-RPC- 5x faster initial block download, under 30 minutesDownload here:http://www.bitcoin.org/download/bitcoin-0.3.2.5-win32.ziphttp://www.bitcoin.org/download/bitcoin-0.3.2.5-linux.tar.gzThanks!

@@ -1,0 +1,6 @@
+Re: Flood attack 0.00000001 BC
+  
+  Bitcointalk
+  
+	2010-08-05 16:39:58 UTC - Original Post
+  Quote from: bytemaster on August 05, 2010, 03:39:19 PMThe only solution to this problem is to make broadcasting of a transaction "non free".  Namely, if you want me to include it you have to pay me.  The net (no pun intended) result is that each client would need to pay other clients to whom they even send their transaction, not just the individual who gets it in a block.   In this way the laws of economics take over and no one gets a free ride on the transaction broadcast system.  I don't know a way to implement that.  The transaction fee to the block creator uses a special trick to include the transaction fee without any additional size.  If there was a transaction for each transaction fee, then what about the transactions fees for the transaction fee's transaction?

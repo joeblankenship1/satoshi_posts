@@ -1,0 +1,6 @@
+Re: Auto-detect for 128-bit 4-way SSE2
+  
+  Bitcointalk
+  
+	2010-09-10 18:11:06 UTC - Original Post
+  Quote from: teknohog on September 09, 2010, 07:32:05 PMSince the function CallCPUID function contains x86 assembler, it breaks the build on other architectures. I've changed line 2770 in main.cpp to#if defined(__GNUC__) && defined(CRYPTOPP_X86_ASM_AVAILABLE)to make it compile again, at least on ARM.Added in SVN rev 152

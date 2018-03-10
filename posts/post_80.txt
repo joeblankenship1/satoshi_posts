@@ -1,0 +1,6 @@
+Re: Proof-of-work difficulty increasing
+  
+  Bitcointalk
+  
+	2010-02-25 23:06:29 UTC - Original Post
+  The formula is based on the time it takes to generate 2016 blocks.  The difficulty is multiplied by 14/(actual days taken).  For instance, this time it took 9.4 days, so the calculation was 14/9.4 = 1.49.  Previous difficulty 2.53 * 1.49 = 3.78, a 49% increase. I don't know what you're talking about accepting easier difficulties.

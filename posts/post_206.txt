@@ -1,0 +1,6 @@
+Re: 0.3.1 release candidate, please test
+  
+  Bitcointalk
+  
+	2010-07-16 00:44:32 UTC - Original Post
+  Run it with the undocumented switch -minimizetotray and the option is available in the options menu.I don't know how to fix it.  It's something wrong deep inside wxWidgets or GTK or Gnome.

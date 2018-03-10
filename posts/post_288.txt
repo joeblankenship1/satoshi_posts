@@ -1,0 +1,6 @@
+*** ALERT *** Upgrade to 0.3.6
+  
+  Bitcointalk
+  
+	2010-07-29 19:13:06 UTC - Original Post
+  Please upgrade to 0.3.6 ASAP!  We fixed an implementation bug where it was possible that bogus transactions could be displayed as accepted.  Do not accept Bitcoin transactions as payment until you upgrade to version 0.3.6!If you can't upgrade to 0.3.6 right away, it's best to shut down your Bitcoin node until you do.Also in 0.3.6, faster hashing:- midstate cache optimisation thanks to tcatm- Crypto++ ASM SHA-256 thanks to BlackEyeTotal generating speedup 2.4x faster.Download:http://sourceforge.net/projects/bitcoin/files/Bitcoin/bitcoin-0.3.6/Windows and Linux users: if you got 0.3.5 you still need to upgrade to 0.3.6.

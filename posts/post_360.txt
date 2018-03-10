@@ -1,0 +1,6 @@
+Re: 4 hashes parallel on SSE2 CPUs for 0.3.6
+  
+  Bitcointalk
+  
+	2010-08-14 22:06:13 UTC - Original Post
+  MinGW GCC 4.5.0:Crypto++ doesn't work, X86_SHA256_HashBlocks() never returnsI only got 4-way working with test.cpp but not when called by BitcoinMinerMinGW GCC 4.4.1:Crypto++ works4-way SIGSEGVGCC is definitely not aligning __m128i. Even if we align our own __m128i variables, the compiler may decide to use a __m128i behind the scenes as a temporary variable.By making our __m128i variables aligned and changing these inlines to defines, I was able to get it to work on 4.4.1 with -O0 only:#define Ch(b, c, d)  ((b & c) ^ (~b & d))#define Maj(b, c, d)  ((b & c) ^ (b & d) ^ (c & d))#define ROTR(x, n) (_mm_srli_epi32(x, n) | _mm_slli_epi32(x, 32 - n))#define SHR(x, n)  _mm_srli_epi32(x, n)But that's with -O0.

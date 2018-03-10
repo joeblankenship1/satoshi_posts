@@ -1,0 +1,6 @@
+Re: Source code documentation
+  
+  Bitcointalk
+  
+	2010-07-18 15:12:54 UTC - Original Post
+  They're only intended for intrepid programmers who read the sourcecode.

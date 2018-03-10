@@ -1,0 +1,6 @@
+Re: Remote RPC access
+  
+  Bitcointalk
+  
+	2010-09-30 18:27:41 UTC - Original Post
+  It can be safe if you're using it over your own LAN, like if you have multiple servers at a location that talk to each other.0.3.13 RC1 is available for Windows:http://www.bitcoin.org/download/bitcoin-0.3.13-rc1-win32-setup.exe

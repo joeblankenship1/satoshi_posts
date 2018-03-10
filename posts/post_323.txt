@@ -1,0 +1,6 @@
+Re: Flood attack 0.00000001 BC
+  
+  Bitcointalk
+  
+	2010-08-05 17:49:43 UTC - Original Post
+  Quote from: bytemaster on August 05, 2010, 04:46:52 PMRight now the transaction fee address is left "blank" and the block generator fills it out.Now you would fill it in with the address of the person you are asking to build the block.  If you're only going to have one person work on building the block, that could take days.  Oh, do you mean send a different variation to each node with the tx fee written to them?The way it is now, it's whoever builds this gets it.If we needed to, we could have a BitTorrent-esque tit-for-tat for transaction broadcast.  Relay paying transactions to me, or I won't relay them to you.  It probably won't be an actual problem though.  It only takes one node relaying like it should to cancel out 7 others greedily not relaying.

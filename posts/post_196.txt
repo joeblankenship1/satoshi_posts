@@ -1,0 +1,6 @@
+Re: Website and software translations
+  
+  Bitcointalk
+  
+	2010-07-15 18:37:13 UTC - Original Post
+  I uploaded an updated bitcoin.po for 0.3.1 attached to this message:http://bitcointalk.org/index.php?topic=151.msg1259#msg1259please use it if you're starting a new translation.If you already have a po file, poedit can update it.  - Get the src directory from the 0.3.1 release candidate posted in the development forum, any version will do:http://bitcointalk.org/index.php?topic=383.0- Make a subdirectory under src: locale/??/LC_MESSAGES(?? could be anything really, "en" or your language 2-letter code)- Put your .po file there- Open it with poedit- In poedit, Catalog->Update from sourcesThe key is that the src directory with the sourcefiles needs to be 3 directories up from the .po file.

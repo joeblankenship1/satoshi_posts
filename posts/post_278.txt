@@ -1,0 +1,6 @@
+Re: Bitcoin x64 for Windows
+  
+  Bitcointalk
+  
+	2010-07-26 18:41:31 UTC - Original Post
+  Quote from: Olipro on July 26, 2010, 06:39:17 AMCredit to tcatm for the caching part of the SHA context - this offers absolutely brilliant performance. Additionally, the Intel compiler really comes into its own here as its parallelisation abilities give a massive performance boost over Visual Studio.Performance: 4700khash/s on 4 cores, I think that speaks for itself.I've included both the VS and Intel build, but there's really no comparison, the Intel build craps all over VS.Is that still starting from Crypto++?  Lets get this into the main sourcecode.

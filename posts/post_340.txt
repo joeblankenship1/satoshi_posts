@@ -1,0 +1,6 @@
+Re: Compile error in SVN r127
+  
+  Bitcointalk
+  
+	2010-08-11 01:42:30 UTC - Original Post
+  Updated SVN.  Thanks.There's little hope of not repeatedly stumbling over that in the future.  It doesn't break the compile for me.

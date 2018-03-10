@@ -1,0 +1,6 @@
+Re: JSON-RPC password
+  
+  Bitcointalk
+  
+	2010-07-22 02:34:23 UTC - Original Post
+  Quote from: gavinandresen on July 22, 2010, 01:11:26 AMTODO: dialog box or debug.log warning if no rpc.user/rpc.password is set, explaining how to set.In many of the contexts of this RPC stuff, you can print to the console with fprintf(stdout, like this:#if defined(__WXMSW__) && wxUSE_GUI        MyMessageBox("Warning: rpc password is blank, use -rpcpw=<password>\n", "Bitcoin", wxOK | wxICON_EXCLAMATION);#else        fprintf(stdout, "Warning: rpc password is blank, use -rpcpw=<password>\n");#endif

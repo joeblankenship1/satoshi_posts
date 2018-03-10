@@ -1,0 +1,6 @@
+Re: Command Line and JSON-RPC
+  
+  Bitcointalk
+  
+	2010-02-24 06:17:23 UTC - Original Post
+  Quote from: theymos on February 24, 2010, 03:07:37 AMQuote from: satoshi on February 23, 2010, 10:15:41 PMOn Linux it needs libgtk2.0-0 installedWill this requirement be removed sometime? I'd rather not have to deal with GTK.How much "dealing with" does GTK actually require?  Is it just a matter of "sudo apt-get install libgtk2.0-0" and having some extra libraries sitting around?  GTK doesn't have to do anything, just be there for bitcoin to link to when it loads up, have the gtk-init-check call fail because no GUI present, then it's done.  It saves us butchering everything with ifdefs and a separate compile and binary to use wxBase just to try to avoid linking GTK.

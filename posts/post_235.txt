@@ -1,0 +1,6 @@
+Re: Source code documentation
+  
+  Bitcointalk
+  
+	2010-07-17 23:18:30 UTC - Original Post
+  I didn't realize you were going to document all the intentionally undocumented commands.  They're unsupported and not intended to be used by users.All the user-facing commands are listed in the -? help.

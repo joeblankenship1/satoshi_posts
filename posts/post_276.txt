@@ -1,0 +1,6 @@
+Re: Stealing Coins
+  
+  Bitcointalk
+  
+	2010-07-25 22:27:36 UTC - Original Post
+  Sorry, actually it's ECDSA (Elliptic Curve Digital Signature Algorithm) not RSA.  I shouldn't have said "prime numbers".  ECDSA doesn't take much time to generate a keypair.

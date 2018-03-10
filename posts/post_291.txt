@@ -1,0 +1,6 @@
+Re: *** ALERT *** Upgrade to 0.3.6 ASAP!
+  
+  Bitcointalk
+  
+	2010-07-29 21:20:38 UTC - Original Post
+  0.3.6 Linux build is back to the old makefile.unix.  It static links libjpeg so that shouldn't be a problem.Is that working better?If you got 22DbRunRecoveryException and you've used someone else's build before, you may need to delete (or move the files somewhere else) database/log.000000*Windows and Linux users: if you got 0.3.5 you still need to upgrade to 0.3.6.

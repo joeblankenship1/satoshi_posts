@@ -1,0 +1,6 @@
+Re: Number of connections?
+  
+  Bitcointalk
+  
+	2010-01-20 20:07:15 UTC - Original Post
+  Coins generate at the same speed with any number of connections >= 1.More connections just add redundancy.  If you only had one connection, what if that node is slow or busy, or only connected to you?  Having several connections increases the certainty that you're well connected to the network.  That hasn't been a problem in practice, the network is very thoroughly connected.  If you have 2 or 3 connections, you're fine.

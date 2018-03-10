@@ -1,0 +1,6 @@
+Re: I broke my wallet, sends never confirm now.
+  
+  Bitcointalk
+  
+	2010-09-30 16:59:00 UTC - Original Post
+  0.3.13 release candidate, please test:http://www.bitcoin.org/download/bitcoin-0.3.13-rc1-win32-setup.exe

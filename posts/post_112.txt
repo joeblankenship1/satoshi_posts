@@ -1,0 +1,6 @@
+Re: Website translations
+  
+  Bitcointalk
+  
+	2010-05-27 14:18:22 UTC - Original Post
+  Hurray!  We have our first language.  I uploaded it to SVN to go in with the 0.3 release.

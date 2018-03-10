@@ -1,0 +1,6 @@
+Re: HTTP status codes from the JSON-RPC api
+  
+  Bitcointalk
+  
+	2010-09-06 21:21:21 UTC - Original Post
+  This is in SVN rev 147.This is more standard, and although json-rpc 1.0 didn't specify the format of error objects, it did specify that they would be objects not strings or other values, so we needed to change this to be correct.  The code/message members have become standard in later json-rpc specs.If you have code that checks the error and expects a string, you'll need to change it.  When there is an error, the error member is now an object not a string.Also in SVN rev 147:- The command line json-rpc returns the error code as its exit code.  Exit codes can only be 0-255 on unix, so it's abs(code)%256.- The "backupwallet <destination>" command that was discussed in another thread.  It locks the wallet and copies it, so you can be sure you get a correct copy.

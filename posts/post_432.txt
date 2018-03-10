@@ -1,0 +1,6 @@
+Re: CryptoPP Assertion Error
+  
+  Bitcointalk
+  
+	2010-09-05 23:25:32 UTC - Original Post
+  You can probably just comment out the linecryptopp/secblock.h:187  //assert(false);Let me know if it works, and watch if it memory leaks. It looks like a template class to make sure the derived class defines its own version of allocate and deallocate.  It would be weird if that was the actual problem and it made it all the way to release.  Probably a false alarm.

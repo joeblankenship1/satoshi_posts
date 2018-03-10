@@ -1,0 +1,6 @@
+[OLD THREAD] Bitcoin version 0.2 development status
+  
+  Bitcointalk
+  
+	2009-11-27 22:48:39 UTC - Original Post
+  We've been working hard on improvements for the next version release.  Martti (sirius-m) added some nice features to make it more user friendly and easier to run in the background: - Minimize to system tray option - Autostart on boot option so you can keep it running in the background automatically - New options dialog layout - Setup EXE for Windows, in addition to the archive downloadI've been working on a number of refinements to the networking code and laying the groundwork for future functionality.  Also coming in version 0.2: - Multi-processor support for coin generation - Proxy support

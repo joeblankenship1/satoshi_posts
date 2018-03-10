@@ -1,0 +1,6 @@
+Bitcoin 0.3.1 released
+  
+  Bitcointalk
+  
+	2010-07-15 17:05:54 UTC - Original Post
+  This is a bugfix maintenance release.  It is now uploaded to SourceForge.  Mac OS X didn't need any fixes so we don't really need to update it, 0.3.0 is still good.The download links are on bitcoin.orgChanges:- Added Portuguese translation by Tiago FariaWindows- Fix for 22DbRunRecoveryException if your username has non-ascii characters in itLinux- Laszlo's fix for lowering generate thread to lowest priority - Fix for if you're having trouble with libcrypto linkage- Gavin Andresen's implementation of "start on windowing system startup" option

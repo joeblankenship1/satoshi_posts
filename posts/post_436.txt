@@ -1,0 +1,6 @@
+Re: auto backing up of wallet.dat
+  
+  Bitcointalk
+  
+	2010-09-06 21:45:10 UTC - Original Post
+  rpc backupwallet <destination> is in SVN rev 147.

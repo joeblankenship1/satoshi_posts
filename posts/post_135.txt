@@ -1,0 +1,6 @@
+Re: Bitcoin in Ubuntu 10.04
+  
+  Bitcointalk
+  
+	2010-06-22 16:39:43 UTC - Original Post
+  It's too late now for feature changes to 0.3, but I'll add that to the post-0.3 to do list.  I never would have noticed that if you hadn't pointed it out.

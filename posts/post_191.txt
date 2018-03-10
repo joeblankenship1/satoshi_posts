@@ -1,0 +1,6 @@
+Re: resource hog
+  
+  Bitcointalk
+  
+	2010-07-15 14:59:00 UTC - Original Post
+  Then all the CPU time is the generate thread, which definitely runs at the lowest possible priority, idle priority.  It's normal that your CPU meter is 100%.  Since it's idle priority, it won't actually slow anything else down, even though the CPU meter is 100%.

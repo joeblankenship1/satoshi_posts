@@ -1,0 +1,6 @@
+Re: tcatm's 4-way SSE2 for Linux 32/64-bit is in 0.3.10
+  
+  Bitcointalk
+  
+	2010-08-24 22:43:56 UTC - Original Post
+  Quote from: ArtForz on August 21, 2010, 04:56:31 PMAMD K10: 2 128bit unitsintel nehalem: 3 128bit unitsThis probably explains why hyperthreading increases performance with -4way.  If three SSE2 units is excessive, then hyperthreading would help keep them all busy.

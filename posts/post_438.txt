@@ -1,0 +1,6 @@
+Re: Always pay transaction fee?
+  
+  Bitcointalk
+  
+	2010-09-07 16:32:21 UTC - Original Post
+  Another option is to reduce the number of free transactions allowed per block before transaction fees are required.  Nodes only take so many KB of free transactions per block before they start requiring at least 0.01 transaction fee.The threshold should probably be lower than it currently is.I don't think the threshold should ever be 0.  We should always allow at least some free transactions.

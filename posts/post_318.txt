@@ -1,0 +1,6 @@
+Re: Flood attack 0.00000001 BC
+  
+  Bitcointalk
+  
+	2010-08-05 16:30:20 UTC - Original Post
+  Quote from: bytemasterPayments would generally be advanced, say 1 BTC at a time and when the connection closes any "change" would be returned.  This rule makes it impossible to pay for a simple "search query" with no further transactions.One alternative is to use a round-up system.  You pay for, say, 1000 pages or images or downloads or searches or whatever at a time.  When you've used up your 1000 pages, you pay for another 1000 pages.  If you only use 1 page, then you have 999 left that you may never use, but it's not a big deal because the cost per 1000 is still small.Or you could pay per day.  The first time you access the site on a given day, you pay for 24 hours of access.Per 1000 or per day may be easier for consumers to get their heads around too.  They worry about per item because it's harder to figure if it might add up too fast.  Unlimited for 24 hours they know what the cost will be.  Or if 1000 seems like plenty, they're not worrying that it's costing more with each click if they figure 1000 is more than they'll probably use.

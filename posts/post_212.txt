@@ -1,0 +1,6 @@
+Re: Resending transaction
+  
+  Bitcointalk
+  
+	2010-07-16 15:01:33 UTC - Original Post
+  Bitcoin automatically rebroadcasts your transactions if it receives new blocks that don't contain them.  It may take about an hour to get rebroadcasted.  It is relentless though.  It will keep nagging the network forever until your transaction gets into a block.

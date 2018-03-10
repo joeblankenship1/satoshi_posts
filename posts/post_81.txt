@@ -1,0 +1,6 @@
+Re: Command Line and JSON-RPC
+  
+  Bitcointalk
+  
+	2010-02-26 16:29:21 UTC - Original Post
+  wx/clipbrd.h isn't used, move it inside the #if wxUSE_GUI.Updated headers.h on SVN.Sorry, I linked to wxbase but I had full wxWidgets on my computer.The db.h:140 class Db no member named "exisits" is stranger.  pdb->get, pdb->put, pdb->del compiled before that.  Do you have version 4.7.25 of Berkeley DB?Db::exists()http://www.oracle.com/technology/documentation/berkeley-db/db/api_reference/CXX/frame_main.htmlhttp://www.oracle.com/technology/documentation/berkeley-db/db/api_reference/CXX/dbexists.htmlI suppose they might have added exists recently, using get before that.

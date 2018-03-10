@@ -1,0 +1,6 @@
+Checking the block chain on load
+  
+  Bitcointalk
+  
+	2010-08-16 20:07:46 UTC - Original Post
+  SVN rev 139 does a basic check of the block chain after loading.With this we wouldn't have needed to delete blk*.dat, it would have automatically done a reorg back to the fork.  There wasn't time to do a careful implementation of this at the time.It might take longer than we want, since it has to load all the blocks.  If it's too slow, we could have it only go back to a certain block number.

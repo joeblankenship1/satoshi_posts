@@ -1,0 +1,6 @@
+Re: 0.3.1 release candidate, please test
+  
+  Bitcointalk
+  
+	2010-07-15 17:23:48 UTC - Original Post
+  Well, it can't hurt to do a backup and it's a good idea to backup regularly, but no, a backup is not required before installing this.

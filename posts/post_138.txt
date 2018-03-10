@@ -1,0 +1,6 @@
+Re: 0.3 almost ready
+  
+  Bitcointalk
+  
+	2010-06-22 17:37:08 UTC - Original Post
+  Here's RC1 for windows for testing:(removed, see RC2 below)Please only download this if you're going to test and report back whether everything seems fine or not.  Make sure to look through the files in "c:\program files\bitcoin"

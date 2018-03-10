@@ -1,0 +1,6 @@
+Re: Repost: Request: Make this anonymous?
+  
+  Bitcointalk
+  
+	2009-11-22 18:35:15 UTC - Original Post
+  There will be a proxy setting in version 0.2 so you can connect through TOR.  I've done a careful scrub to make sure it doesn't use DNS or do anything that would leak your IP while in proxy mode.

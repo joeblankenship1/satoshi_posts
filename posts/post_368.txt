@@ -1,0 +1,6 @@
+Re: overflow bug SERIOUS
+  
+  Bitcointalk
+  
+	2010-08-15 21:06:45 UTC - Original Post
+  It would help if people stop generating.  We will probably need to re-do a branch around the current one, and the less you generate the faster that will be.A first patch will be in SVN rev 132.  It's not uploaded yet.  I'm pushing some other misc changes out of the way first, then I'll upload the patch for this.

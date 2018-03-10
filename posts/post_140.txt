@@ -1,0 +1,6 @@
+Re: 0.3 almost ready
+  
+  Bitcointalk
+  
+	2010-06-22 19:25:13 UTC - Original Post
+  davidonpda, were you also running laszlo's build previously?Check if the "%appdata%" directory exists, and "%appdata%\bitcoin"Try: rename "%appdata%\bitcoin" bitcoin2 does it work then?

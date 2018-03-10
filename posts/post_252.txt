@@ -1,0 +1,6 @@
+Re: JSON-RPC password
+  
+  Bitcointalk
+  
+	2010-07-21 17:31:09 UTC - Original Post
+  boost::program_options has the same "key=value" format.  Gavin pointed out we can use it in a simple way as a parser without getting into all the esoteric c++ syntax like typed value extraction.  We can use more features if we want later.Lets go ahead with HTTP basic authentication instead of password as a parameter.

@@ -1,0 +1,6 @@
+Re: Fedora 13 libcrypto
+  
+  Bitcointalk
+  
+	2010-07-16 14:55:23 UTC - Original Post
+  Please try the 0.3.1 release candidate, it should at least resolve the libcrypto dependency:http://bitcointalk.org/index.php?topic=383.0Let me know if that works.

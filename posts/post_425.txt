@@ -1,0 +1,6 @@
+Re: New web service: obtain dump of bitcoin block NNNN
+  
+  Bitcointalk
+  
+	2010-08-27 16:13:16 UTC - Original Post
+  That's kind of interesting as an upside-down bar chart of how many blocks were produced each day.  The target is 144 blocks per day.

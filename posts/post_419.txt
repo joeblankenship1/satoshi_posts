@@ -1,0 +1,6 @@
+Re: Need a post writing up some things users should know
+  
+  Bitcointalk
+  
+	2010-08-26 00:44:05 UTC - Original Post
+  Any backup process/procedure would just be a stopgap until there's time to properly work on coding solutions in software.  We can try to use words to help the situation until code gets there.The main backup improvement will be pre-made pool of keys, and a rescan at load to scrape missed transactions from the block history.  Then a backup will last forward for a long time.

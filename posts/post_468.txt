@@ -1,0 +1,6 @@
+Re: Prioritized transactions, and tx fees
+  
+  Bitcointalk
+  
+	2010-09-30 18:22:22 UTC - Original Post
+  True, the switch should be something more dynamic that pays per KB.  It's harder to think of how to explain it.

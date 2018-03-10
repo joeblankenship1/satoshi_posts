@@ -1,0 +1,6 @@
+Re: Stuck on 513 blocks
+  
+  Bitcointalk
+  
+	2010-07-14 18:02:28 UTC - Original Post
+  This is the second time I've seen this "Live Protection" problem reported.It must be blocking the program's network communication.  It sounds like it's allowing connections to be made, hence the 10 connections shown, but not allowing any data to be sent or received on them.We need to understand this problem better.Can someone write some instructions on the wiki explaining how to turn off or add an exclusion to Live Protection or whatever its full proper name is.

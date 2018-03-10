@@ -1,0 +1,6 @@
+Re: 0.3.10.1 Question on where block should be
+  
+  Bitcointalk
+  
+	2010-08-16 00:37:20 UTC - Original Post
+  For now, can some people running 0.3.10 with static IP who can receive incoming connections post their IP?  Then we can -addnode= them and make sure to connect to at least one 0.3.10 node.

@@ -1,0 +1,6 @@
+Re: [PATCH] Automatic block validation
+  
+  Bitcointalk
+  
+	2010-08-16 17:08:02 UTC - Original Post
+  Quote from: satoshi on August 16, 2010, 03:25:54 PMIt would probably be possible to initiate an AddToBlockIndex or Reorganize after the check, but it would require a lot more careful attention.  I probably should break out part of AddToBlockIndex that sets the new best block.  I'll probably end up doing that instead of the code below.This is what I ended up doing in SVN rev 139.Instead of deleting the bad chain, I added an extra CheckBlock to ConnectBlock so bad blocks can't get back into the best chain once they're kicked out.

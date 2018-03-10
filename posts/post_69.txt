@@ -1,0 +1,6 @@
+Re: UI improvements
+  
+  Bitcointalk
+  
+	2010-02-23 16:53:27 UTC - Original Post
+  Quote from: Xunie on February 23, 2010, 12:28:27 PM/etc/init.d/gdm start and it will start gdm!Ah yes, there we go, back to normal again.The ctrl+alt+F[1-8] thing never worked on this computer.  The screen just goes haywire.

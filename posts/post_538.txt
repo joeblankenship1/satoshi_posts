@@ -1,0 +1,6 @@
+Re: BitDNS and Generalizing Bitcoin
+  
+  Bitcointalk
+  
+	2010-12-11 13:08:30 UTC - Original Post
+  @dtvan: all 3 excellent points. 1) IP records don't need to be in the chain, just do registrar function not DNS.  And CA problem solved, neat.2) Pick one TLD, .web +1.3) Expiration and significant renewal costs, very important.Quote from: joe on December 11, 2010, 10:53:58 AMHowever, thinking more about this now I support inclusion of additional coinbases / tracking systems in the main network. The reason for doing this is so as not to water down CPU power into multiple networks. We want one strong network, so the network should be versatile.Avoiding CPU power fragmentation is no longer a reason.  Independent networks/chains can share CPU power without sharing much else.  See: http://bitcointalk.org/index.php?topic=1790.msg28696#msg28696 and http://bitcointalk.org/index.php?topic=1790.msg28715#msg28715

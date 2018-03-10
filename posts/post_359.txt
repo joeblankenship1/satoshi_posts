@@ -1,0 +1,6 @@
+Re: 4 hashes parallel on SSE2 CPUs for 0.3.6
+  
+  Bitcointalk
+  
+	2010-08-14 17:55:37 UTC - Original Post
+  Got the test working on 32-bit with MinGW GCC 4.5.  Exactly 50% slower than stock with Core 2.

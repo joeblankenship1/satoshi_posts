@@ -1,0 +1,6 @@
+Re: Build error SVN r115 on my Mac: workaround
+  
+  Bitcointalk
+  
+	2010-07-28 21:23:23 UTC - Original Post
+  Was that the only thing I broke in the OSX build?!  Does it actually work after just that one change?I had to do that for makefile.vc also.  It compiled, but SHA-256 didn't work correctly; it returned the same incorrect hash each time.We'll disable it now, and if anyone figures out how to fix it, we can re-enable it then.  It's still 1.7x faster from the midstate optimisation.The Crypto++ ASM SHA-256 works with GCC on Linux and Windows (MinGW).I uploaded this makefile.osx change to SVN.  (let me know if that compiles now)

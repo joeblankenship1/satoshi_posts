@@ -1,0 +1,6 @@
+Re: HOWTO: Compiling Bitcoin on Ubuntu 10.04 (Karmic)
+  
+  Bitcointalk
+  
+	2010-08-19 18:55:48 UTC - Original Post
+  That's a really well written walkthough.  Someone should confirm if they followed it and didn't run into any snags.

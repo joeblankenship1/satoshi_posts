@@ -1,0 +1,6 @@
+Re: JSON-RPC password
+  
+  Bitcointalk
+  
+	2010-07-23 17:14:31 UTC - Original Post
+  Gavin's changes look good.  I think everything is complete.  Here's a test build, please test it!http://www.bitcoin.org/download/bitcoin-0.3.2.5-win32.ziphttp://www.bitcoin.org/download/bitcoin-0.3.2.5-linux.tar.gz

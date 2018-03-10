@@ -1,0 +1,6 @@
+Re: tcatm's 4-way SSE2 for Linux 32/64-bit is in 0.3.10
+  
+  Bitcointalk
+  
+	2010-08-19 19:07:43 UTC - Original Post
+  Quote from: Ground Loop on August 18, 2010, 11:14:26 PMAny non-Mac i5 love?Windows i5 64-bit got slower here.That's the first I've heard anyone say i5 was slower.  Everyone else has said 4way was faster on i5.  Moreso with hyperthreading enabled.Quote from: nelisky on August 18, 2010, 11:02:25 PMAnd i5, at least on my macbookproGood, so I take it that's a confirmation that it's working on Mac as well?Laszlo told me he did compile in the -4way stuff on Mac, so the -4way switch is also available to try on Mac.  I don't think makefile.osx on SVN has it yet, just the built version.

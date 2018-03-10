@@ -1,0 +1,6 @@
+Re: RFC: remove DB_PRIVATE flag
+  
+  Bitcointalk
+  
+	2010-09-12 18:00:39 UTC - Original Post
+  Trying it without the DB_PRIVATE flag in rev 153.  We need to keep an eye on what's different.On Windows at least, it creates six __db.001 - __db.006 files with sizes from 24K to 4MB.  It doesn't delete them on exit, it just leaves them behind.The docs say it uses memory mapped files.  I assume they have the same file permissions as the database files, so the same user access restrictions apply.Tests on Windows private LAN download of 78500 blocks:with DB_PRIVATE     20 minutes 51 secondswithout DB_PRIVATE   20 minutes 51 secondsI wasn't expecting them to come out exactly the same.

@@ -1,0 +1,6 @@
+Re: Having problems specifing -datadir
+  
+  Bitcointalk
+  
+	2010-07-28 20:58:26 UTC - Original Post
+  It was able to reproduce this.  The database doesn't like the relative path."bitcoind -datadir=./subdir getinfo" works against a running daemon, but trying to start the daemon as "bitcoind -datadir=./subdir" gets that exception.I guess we should resolve the full path before passing it to the database.It looks like you were the first one to ever use -datadir with a relative path.

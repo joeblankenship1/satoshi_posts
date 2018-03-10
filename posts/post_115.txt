@@ -1,0 +1,6 @@
+Re: Website translations
+  
+  Bitcointalk
+  
+	2010-06-02 22:18:09 UTC - Original Post
+  I uploaded the 93% complete Dutch translation to SVN.  Thanks!

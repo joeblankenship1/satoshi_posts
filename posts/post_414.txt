@@ -1,0 +1,6 @@
+Re: Development of alert system
+  
+  Bitcointalk
+  
+	2010-08-25 16:40:20 UTC - Original Post
+  I changed the switch name to -disablesafemode.

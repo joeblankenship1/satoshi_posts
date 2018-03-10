@@ -1,0 +1,6 @@
+Re: Win7 64bit since last patch Tues now crashes
+  
+  Bitcointalk
+  
+	2010-10-25 17:27:47 UTC - Original Post
+  The only thing I can think of is to see if there are other versions of mingwm10.dll you can get.  mingwm10.dll is a tiny little DLL that came with the MinGW compiler that you need when you build for multi-thread.  I don't know exactly what it does, but it probably just says something like "yes Windows, see I'm in a DLL like you insisted."The end of your debug.log file might show the last thing it was doing before it crashed.

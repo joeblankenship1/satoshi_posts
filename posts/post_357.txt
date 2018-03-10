@@ -1,0 +1,6 @@
+Re: 4 hashes parallel on SSE2 CPUs for 0.3.6
+  
+  Bitcointalk
+  
+	2010-08-14 00:49:18 UTC - Original Post
+  MinGW on Windows has trouble compiling it:g++ -c -mthreads -O2 -w -Wno-invalid-offsetof -Wformat -g -D__WXDEBUG__ -DWIN32 -D__WXMSW__ -D_WINDOWS -DNOPCH -I"/boost" -I"/db/build_unix" -I"/openssl/include" -I"/wxwidgets/lib/gcc_lib/mswud" -I"/wxwidgets/include" -msse2 -O3 -o obj/sha256.o sha256.cppsha256.cpp: In function `long long int __vector__ Ch(long long int __vector__, long long int __vector__, long long int __vector__)':sha256.cpp:31: internal compiler error: in perform_integral_promotions, at cp/typeck.c:1454Please submit a full bug report,with preprocessed source if appropriate.See <URL:http://www.mingw.org/bugs.shtml> for instructions.make: *** [obj/sha256.o] Error 1

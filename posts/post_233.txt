@@ -1,0 +1,6 @@
+Re: Assertion Failure - Ubuntu Lucid
+  
+  Bitcointalk
+  
+	2010-07-17 22:37:06 UTC - Original Post
+  Quote from: singpolyma on July 17, 2010, 10:19:48 PMMy coins disappeared, but I assume they'll come back when it's up to current?Right, they'll re-appear when it's finished downloading all the blocks. 

@@ -1,0 +1,6 @@
+Re: Blocks never stop generating?
+  
+  Bitcointalk
+  
+	2010-01-28 01:08:33 UTC - Original Post
+  Where it says "# blocks" in the status column I'm changing it to say "# confirmations".  That might be clearer.If you doubleclick on the transaction you get a little more information.

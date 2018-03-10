@@ -1,0 +1,6 @@
+Post your static IP
+  
+  Bitcointalk
+  
+	2010-02-21 04:19:53 UTC - Original Post
+  It would be nice to have a list of static IPs for new users to send test donations to so they can see how the software works.  If you can accept incoming connections and you have a static IP address, post it here!Anything sent to these IPs should be considered a donation.  If you do request a round-trip, be sure to include your return bitcoin address or IP in the comment, but please assume it'll be one-way.  They won't necessarily be watching for incoming transactions to send back.

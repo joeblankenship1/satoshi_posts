@@ -1,0 +1,6 @@
+Re: Need a post writing up some things users should know
+  
+  Bitcointalk
+  
+	2010-08-22 22:51:00 UTC - Original Post
+  The clock part will be covered in the next release (0.3.11 or higher).  SVN rev 141 pops up a message box if your clock is too far off.

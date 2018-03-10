@@ -1,0 +1,6 @@
+Re: Prioritized transactions, and tx fees
+  
+  Bitcointalk
+  
+	2010-09-30 18:11:56 UTC - Original Post
+  It ramps up the fee requirement as the block fills up:<50KB  free50KB   0.01250KB  0.02333KB  0.03375KB  0.04etc.It's a typical pricing mechanism.  After the first 50KB sells out, the price is raised to 0.01.  After 250KB is sold, it goes up to 0.02.  At some price, you can pretty much always get in if you're willing to outbid the other customers.Just including the minimum 0.01 goes a long way.

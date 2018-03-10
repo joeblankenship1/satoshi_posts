@@ -1,0 +1,6 @@
+Re: 0.3 almost ready
+  
+  Bitcointalk
+  
+	2010-06-22 19:11:41 UTC - Original Post
+  Quote from: davidonpda on June 22, 2010, 06:23:26 PMEXCEPTION: 22DbRunRecoveryExceptionDBENv::open: DB_RUNRECOVERY: Fatal error, run database recoveryC:\Program Files\Bitcoin\bitcoin.exe in OnInit()What operating system?Normally when it does that it's because the directory where the data directory should go doesn't exist.  See if the "%appdata%" directory exists.Do you get that error with 0.2 also?  It's hard to see how you could get that with 0.3 and not with 0.2 since there's nothing different in that regard.

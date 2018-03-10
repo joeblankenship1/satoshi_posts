@@ -1,0 +1,6 @@
+Re: Version 0.3.13, please upgrade
+  
+  Bitcointalk
+  
+	2010-10-03 23:46:19 UTC - Original Post
+  Make sure you keep your node online so it'll keep rebroadcasting transaction b412a0.  It haven't seen it rebroadcast since 29/09/2010 16:41.

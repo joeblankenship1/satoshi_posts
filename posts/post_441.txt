@@ -1,0 +1,6 @@
+Re: Version 0.3.12
+  
+  Bitcointalk
+  
+	2010-09-08 18:06:04 UTC - Original Post
+  Bitcoin clients currently only create and recognize transactions that match two possible templates.  Those are some quick tests that loosely check if transactions fit some general metrics that those standard transactions fit.  Nodes will only work on adding those transactions to their block.In the future, if we add more templates to the existing 2 types of transactions, we can change the "rather not work on nonstandard transactions" test to accept them.

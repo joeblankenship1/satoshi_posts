@@ -1,0 +1,6 @@
+Re: *** ALERT *** version 0.3.6
+  
+  Bitcointalk
+  
+	2010-07-29 19:55:51 UTC - Original Post
+  Haven't had time to update the SVN yet.  Wait for 0.3.6, I'm building it now.  You can shut down your node in the meantime.  

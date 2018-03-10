@@ -1,0 +1,6 @@
+Re: Please upgrade to 0.3.8!
+  
+  Bitcointalk
+  
+	2010-08-04 00:29:37 UTC - Original Post
+  I guess SourceForge hasn't updated its mirrors yet.  The files are there on the admin side, but not on the user side.  I have no idea how long that will take.  It's always been immediate in the past.Edit: SourceForge is updated now.

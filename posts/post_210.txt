@@ -1,0 +1,6 @@
+Re: Assertion Failure - Ubuntu Lucid
+  
+  Bitcointalk
+  
+	2010-07-16 14:52:04 UTC - Original Post
+  That's the first time I've seen this error.How many blocks do you have? (in the status bar)You should move your blk*.dat files (in ~/.bitcoin) to another directory and let it start over downloading the block chain again.  If you don't mind, could you keep the old blk*.dat files for a little while in case I need to look at them?

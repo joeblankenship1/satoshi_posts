@@ -1,0 +1,6 @@
+Re: New demonstration CPU miner available
+  
+  Bitcointalk
+  
+	2010-11-26 22:02:41 UTC - Original Post
+  You should try it with tcatm's 4-way SSE2 SHA in sha256.cpp.  It compiles fine as a C file, just rename sha256.cpp to sha256.c.  I was able to get it to work in simple tests on Windows, but not when linked in with Bitcoin.  It may have a better chance of working as part of a C program instead of C++.Currently it's only enabled in the Linux build, so if you get it to work you could make it available to Windows users.  It's about 100% speedup on AMD CPUs.

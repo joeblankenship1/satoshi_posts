@@ -1,0 +1,6 @@
+Re: Builds for Ubuntu?
+  
+  Bitcointalk
+  
+	2010-08-03 20:56:11 UTC - Original Post
+  Quote from: nimnul on August 03, 2010, 05:51:15 PMIs satoshi noWx patch in 0.3.7 already? Before that bitcoind required wx, and I never seen Satoshi announcing that it's in trunkYes, 0.3.7 has it.  It was in rev 112.

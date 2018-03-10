@@ -1,0 +1,6 @@
+Re: Won't let me send coins because it requires a transaction fee?
+  
+  Bitcointalk
+  
+	2010-09-10 00:23:24 UTC - Original Post
+  What version is the one where this happened?  Release build, or built it yourself?  Which operating system?  Were you sending by IP or by Bitcoin Address?When you sent 49.99, did it prompt you to pay a 0.01 fee?There was a change in GetMinFee, but I can't see how it would cause this.  It only starts to apply when a block gets huge. The reason for the difference in block number is the number displayed was reduced by 1 in 0.3.11 because it made more sense that way.

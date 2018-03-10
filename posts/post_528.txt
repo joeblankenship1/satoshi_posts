@@ -1,0 +1,6 @@
+Re: Version 0.3.18
+  
+  Bitcointalk
+  
+	2010-12-09 15:17:53 UTC - Original Post
+  I came to agree with Gavin about whitelisting when I realized how quickly new transaction types can be added.Quote from: nanotube on December 09, 2010, 06:19:05 AMwhy not make it easier on everyone and just allow say, 64 or 128 bytes of random data in a transaction?That's already possible.  <pubkey> OP_CHECKSIG.  <pubkey> can be 33 to 120 bytes.I also support a third transaction type for timestamp hash sized arbitrary data.  There's no point not having one since you can already do it anyway.  It would tell nodes they don't need to bother to index it.

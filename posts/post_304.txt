@@ -1,0 +1,6 @@
+Re: Linux version => No GUI after upgrade.  WTF?
+  
+  Bitcointalk
+  
+	2010-08-02 17:39:27 UTC - Original Post
+  Did it print anything to the console?  Are you sure you didn't run "bitcoind"?Try version 0.3.7.

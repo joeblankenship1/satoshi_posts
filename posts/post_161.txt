@@ -1,0 +1,6 @@
+Re: 1.3 almost ready
+  
+  Bitcointalk
+  
+	2010-07-02 20:37:17 UTC - Original Post
+  Quote from: dkaparis on June 27, 2010, 10:02:25 PMOn a related note, is the thing compilable by Visual C++? I'm inclined to give it a try when I get around to it.It is, but generating is more than twice as slow.

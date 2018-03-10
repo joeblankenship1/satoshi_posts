@@ -1,0 +1,6 @@
+Re: 4 hashes parallel on SSE2 CPUs for 0.3.6
+  
+  Bitcointalk
+  
+	2010-08-14 04:22:29 UTC - Original Post
+  If you haven't already, try aligning thash.  It might matter.  Couldn't hurt.Quote from: tcatm on August 14, 2010, 12:53:07 AMLooks like we're triggering a compiler bug in the tree optimizer. Can you try to compile it -O0?No help from -O0, same error.MinGW is GCC 3.4.5.  Probably the problem.I'll see if I can get a newer version of MinGW.

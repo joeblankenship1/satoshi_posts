@@ -1,0 +1,6 @@
+Re: A few suggestions
+  
+  Bitcointalk
+  
+	2009-12-17 18:38:06 UTC - Original Post
+  That's good, is it running fine on FreeBSD?I committed the changes to headers.h.  For consistency, I used __BSD__.  The complete list of defines is at http://docs.wxwidgets.org/stable/wx_cppconst.html#ifdef __BSD__#include <netinet/in.h>#endifmalloc.h is only needed on windows, I'll move that into the __WXMSW__ section before it causes any more trouble.

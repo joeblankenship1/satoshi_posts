@@ -1,0 +1,6 @@
+Re: 0.3.1 release candidate, please test
+  
+  Bitcointalk
+  
+	2010-07-15 23:23:04 UTC - Original Post
+  Quote from: RHorning on July 15, 2010, 10:29:28 PMI don't see either happening, although it did get put into the "Startup" folder.  That is so Windows 95ish (just kidding..... Microsoft has so screwed this up that it isn't even funny).  I would recommend the registry settings for a number of reasons including the fact that most software puts the startup in that location, even though I personally find the startup folder to be more attractive and how most software on Windows should behave.It could go either way.  The Startup folder has the advantage that the end user can see it and manually remove it with the regular UI (not regedit) if they already blew away the Bitcoin directory and its uninstaller.  Bitcoin will not relentlessly keep re-adding it if you delete it manually.OpenOffice is another example of something that puts its link in the Startup folder.

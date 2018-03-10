@@ -1,0 +1,6 @@
+Re: Repost: Request: Make this anonymous?
+  
+  Bitcointalk
+  
+	2010-02-12 17:28:32 UTC - Original Post
+  True, sending by IP through Tor trades one problem for another.  The Tor exit node can see the text of your message and potentially MITM you.Best to only send to bitcoin addresses then.  Payments by bitcoin address are broadcast over the network as part of the normal network traffic.  All communications with the network are broadcasts of public information.

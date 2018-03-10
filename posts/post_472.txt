@@ -1,0 +1,6 @@
+Re: Version 0.3.13
+  
+  Bitcointalk
+  
+	2010-10-03 18:17:06 UTC - Original Post
+  Quote from: ShadowOfHarbringer on October 02, 2010, 01:00:07 PMThat's nice, however the automatic 4way detection is not working on my Gentoo AMD 64 version client.I still have to add the "-4way" switch.Forgot to say, I suspected the detect might not work on 64-bit AMD.  I found it hard to believe but AMD reports a different model number in 64-bit mode.Could you grep CPUID your debug.log and tell me what it says?  (and anyone else with 64-bit AMD)  And what AMD chip do you have?Do all AMDs that support 64-bit have the better SSE2 hardware also?

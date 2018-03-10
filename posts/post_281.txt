@@ -1,0 +1,6 @@
+Re: Bitcoin x86 for Windows
+  
+  Bitcointalk
+  
+	2010-07-27 18:27:30 UTC - Original Post
+  Quote from: BlackEye on July 25, 2010, 10:12:23 PMI was able to integrate the SHA256 functionality from Crypto++ 5.6.0 into Bitcoin.  This is the fastest SHA256 yet using the SSE2 assembly code.  Since Bitcoin was sending unaligned data to the block hash function, I had to change the MOVDQA instruction to MOVDQU.I think using the SHA256 functionality from Crypto++ 5.6.0 is the way forward right now.I added a subset of the Crypto++ 5.6.0 library to the SVN.  I stripped it down to just SHA and 11 general dependency files.  There shouldn't be any other crypto in there other than SHA.I aligned the data fields and it worked.  The ASM SHA-256 is about 48% faster.  The combined speedup is about 2.5x faster than version 0.3.3.I guess it's using SSE2.  It automatically sets its build configuration at compile time based on the compiler environment.It looks like it has some SSE2 detection at runtime, but it's hard to tell if it actually uses it to fall back if it's not available.  I want the release builds to have SSE2.  SSE2 has been around since the first Pentium 4.  A Pentium 3 or older would be so slow, you'd be wasting your electricity trying to generate on it anyway.This is SVN rev 114.

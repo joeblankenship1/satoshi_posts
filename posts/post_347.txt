@@ -1,0 +1,6 @@
+Re: BSD detection
+  
+  Bitcointalk
+  
+	2010-08-12 21:14:20 UTC - Original Post
+  This is in SVN rev 130.  Check that it compiles right.Code:#if (defined(__unix__) || defined(unix)) && !defined(USG)#include <sys/param.h>  // to get BSD define#endif#ifdef __WXMAC_OSX__#ifndef BSD#define BSD 1#endif#endif

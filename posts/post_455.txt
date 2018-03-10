@@ -1,0 +1,6 @@
+Re: Message Encryption as a built-in feature?
+  
+  Bitcointalk
+  
+	2010-09-19 22:47:00 UTC - Original Post
+  Theymos already said this...  ECDSA does not support encrypting messages.  Only digital signatures.

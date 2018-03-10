@@ -1,0 +1,6 @@
+Re: 28 days without generation, i have 4200khash/s
+  
+  Bitcointalk
+  
+	2010-08-19 19:40:30 UTC - Original Post
+  Make sure your computer's date and time are correct.

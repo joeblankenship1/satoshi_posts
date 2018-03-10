@@ -1,0 +1,6 @@
+Re: Stealing Coins
+  
+  Bitcointalk
+  
+	2010-07-25 19:06:23 UTC - Original Post
+  Red, thanks for telling me privately first!  Please go ahead and post it (and relieve the suspense for everyone!)His point is that transactions paid to a Bitcoin Address are only as secure as the hash function.  To make Bitcoin Addresses short, they are a hash of the public key, not the public key itself.  An attacker would only have to break the hash function, not ECDSA.

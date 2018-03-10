@@ -1,0 +1,6 @@
+Re: tcatm's 4-way SSE2 for Linux 32/64-bit is in 0.3.10
+  
+  Bitcointalk
+  
+	2010-08-28 14:27:15 UTC - Original Post
+  The simplification is intentional.  There will only be more than one thash[7]=0 in one out of 134,217,728 cases.  It only makes it 0.0000007% slower.

@@ -1,0 +1,6 @@
+Re: JSON-RPC method idea: list transactions newer than a given txid
+  
+  Bitcointalk
+  
+	2010-12-08 22:36:45 UTC - Original Post
+  Then how do you cope with the issues I listed in the message you quoted?

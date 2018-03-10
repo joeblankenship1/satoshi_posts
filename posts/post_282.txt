@@ -1,0 +1,6 @@
+Re: Bitcoin x86 for Windows
+  
+  Bitcointalk
+  
+	2010-07-27 19:47:42 UTC - Original Post
+  OK, thanks.  I'd also like to know if it runs fine as long as you don't turn on Generate.  You'd think as long as it doesn't actually execute any SSE2 instructions, it would still load.  At least Pentium 3's could run it without generating.

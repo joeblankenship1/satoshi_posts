@@ -1,0 +1,6 @@
+Re: Proof-of-work difficulty increasing
+  
+  Bitcointalk
+  
+	2010-07-16 17:29:28 UTC - Original Post
+  Yes, about 20 hours.  (120 conf / 6 blocks per hour = 20 hours)  That's the normal length of time before you can spend it.  You know long before that that you won one. 

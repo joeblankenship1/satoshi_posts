@@ -1,0 +1,6 @@
+Re: "SetIcons(): icon bundle doesn't contain any suitable icon"
+  
+  Bitcointalk
+  
+	2010-07-16 02:43:29 UTC - Original Post
+  That must be it then.It must be looking for a larger icon like 20x20 but we don't have one.

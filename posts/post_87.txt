@@ -1,0 +1,6 @@
+Re: Money Transfer Regulations
+  
+  Bitcointalk
+  
+	2010-03-03 04:28:56 UTC - Original Post
+  When there's enough scale, maybe there can be an exchange site that doesn't do transfers, just matches up buyers and sellers to exchange with each other directly, similar to how e-bay works.To make it safer, the exchange site could act as an escrow for the bitcoin side of the payment.  The seller puts the bitcoin payment in escrow, and the buyer sends the conventional payment directly to the seller.  The exchange service doesn't handle any real world money.This would be a step better than e-bay.  E-bay manages to work fine even though shipped goods can't be recovered if payment falls through.

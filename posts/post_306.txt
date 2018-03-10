@@ -1,0 +1,6 @@
+Re: 4 hashes parallel on SSE2 CPUs for 0.3.6
+  
+  Bitcointalk
+  
+	2010-08-02 19:02:46 UTC - Original Post
+  Is it 2x fast on AMD and 1/2 fast on Intel?Quote from: tcatm on July 31, 2010, 10:12:38 AMBtw. Why are you using this alignup<16> function when __attribute__ ((aligned (16))) will tell the compiler to align at compiletime?Tried that, but it doesn't work for things on the stack.  I ran some tests.It doesn't even cause an error, it just doesn't align it.

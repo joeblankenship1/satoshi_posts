@@ -1,0 +1,6 @@
+Connection limits
+  
+  Bitcointalk
+  
+	2010-08-09 20:58:45 UTC - Original Post
+  SVN rev 125:- Always make 8 outbound connections even if have 8 inbound- Limit outbound connections to one per a.b.?.? range- Switch -maxconnections=#I added the (currently undocumented) switch -maxconnections=#.  You shouldn't use it unless you need to because your router can't maintain a lot of connections, then try -maxconnections=30.I haven't really tested -maxconnections much, could someone test it?

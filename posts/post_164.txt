@@ -1,0 +1,6 @@
+Re: Feature Request: Limiting Connections
+  
+  Bitcointalk
+  
+	2010-07-02 22:20:20 UTC - Original Post
+  I reduced max outbound connections from 15 to 8 in RC4.15 was way more than we needed for redundancy.  8 is still plenty of redundancy.As the nodes upgrade to this version, this will cut in half the number of connections that inbound accepting nodes get.If anyone wants more than 8 connections, they can open port 8333 on their firewall.

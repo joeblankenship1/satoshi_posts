@@ -1,0 +1,6 @@
+Re: 0.3 almost ready
+  
+  Bitcointalk
+  
+	2010-06-26 15:10:10 UTC - Original Post
+  The first panel of the status bar is shared with the help description of menu items as you hover over them.  Since all our menu item descriptions are blank, it replaces it with blank when you're hovering in a menu.

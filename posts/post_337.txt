@@ -1,0 +1,6 @@
+Re: Version 0.3.8.1 update for Linux 64-bit
+  
+  Bitcointalk
+  
+	2010-08-10 23:46:00 UTC - Original Post
+  SVN rev 128: disable SSE2 on 32-bit.  This may only disable it for MSVC and GCC.  Other compilers might have different 64-bit defines.

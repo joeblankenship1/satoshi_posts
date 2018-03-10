@@ -1,0 +1,6 @@
+Re: bitcoin generation broken in 0.3.8?  (64-bit)
+  
+  Bitcointalk
+  
+	2010-08-09 20:34:06 UTC - Original Post
+  I uploaded 0.3.8.1 for Linux with re-built 64-bit.  I ran a difficulty 1 test with it and it has generated blocks.http://bitcointalk.org/index.php?topic=765.0Download:http://sourceforge.net/projects/bitcoin/files/Bitcoin/bitcoin-0.3.8/bitcoin-0.3.8.1-linux.tar.gz/download

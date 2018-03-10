@@ -1,0 +1,6 @@
+Re: Bitcoin clients getting k-lined from the IRC bootstrapping channel
+  
+  Bitcointalk
+  
+	2010-06-25 21:15:15 UTC - Original Post
+  We need more details about what happened MadHatter.Both 0.2 and 0.3 have a backup way of getting connected without IRC, it's just slower to get connected.0.2 can find other nodes without IRC if it's ever been connected before, but a new install can't discover the network for the first time without IRC.0.3 can also seed without IRC.  It can operate entirely without IRC if it needs to, but it's better having IRC for redundancy.

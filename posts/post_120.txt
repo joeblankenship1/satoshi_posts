@@ -1,0 +1,6 @@
+Re: Can't Build r80 from SVN
+  
+  Bitcointalk
+  
+	2010-06-14 22:40:14 UTC - Original Post
+  Sorry, I didn't test compile on linux the last few revisions.Reverted makefile.unix.

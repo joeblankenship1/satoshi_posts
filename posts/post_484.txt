@@ -1,0 +1,6 @@
+Re: [PATCH] increase block size limit
+  
+  Bitcointalk
+  
+	2010-10-04 19:48:40 UTC - Original Post
+  It can be phased in, like:if (blocknumber > 115000)    maxblocksize = largerlimitIt can start being in versions way ahead, so by the time it reaches that block number and goes into effect, the older versions that don't have it are already obsolete.When we're near the cutoff block number, I can put an alert to old versions to make sure they know they have to upgrade.

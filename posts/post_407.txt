@@ -1,0 +1,6 @@
+Re: tcatm's 4-way SSE2 for Linux 32/64-bit is in 0.3.10
+  
+  Bitcointalk
+  
+	2010-08-22 23:21:50 UTC - Original Post
+  Thanks for clearing that up.  I read the link someone posted about AMD making that change around 2007, but I didn't know what the story was for Intel.There's no hope for Core/Core2 then.  They only have half the SSE2 hardware.Strange that Intel has 3 128bit units, but AMD with 2 128bit units is the faster one.

@@ -1,0 +1,6 @@
+Re: latency and locality
+  
+  Bitcointalk
+  
+	2010-08-07 16:28:17 UTC - Original Post
+  Once you get away from a system where each node's influence is proportional to their CPU power, then what else do you use to determine who is (approximately) one person?

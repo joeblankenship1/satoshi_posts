@@ -1,0 +1,6 @@
+Re: Transaction Overload Solution
+  
+  Bitcointalk
+  
+	2010-08-05 17:38:21 UTC - Original Post
+  I can't think of a way to implement that.  All the transaction fees would be additional transactions.  What about the transaction fees for the transaction fee's transaction?

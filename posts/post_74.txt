@@ -1,0 +1,6 @@
+New icon/logo
+  
+  Bitcointalk
+  
+	2010-02-24 21:24:23 UTC - Original Post
+  New icons, what do you think?  Better than the old one?      Full size 530x529 image for scaling down to custom sizes:http://www.bitcoin.org/download/bitcoin530.pngThe perspective shadow was too thick on the larger sizes.  I updated 32, 48 and the full size.I release these images into the public domain (copyright-free).  I request that derivative works be made public domain.

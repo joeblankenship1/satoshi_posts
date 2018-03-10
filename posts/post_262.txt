@@ -1,0 +1,6 @@
+Re: Warning: don't use -server or bitcoind on a machine where you web browse
+  
+  Bitcointalk
+  
+	2010-07-24 02:29:09 UTC - Original Post
+  The JSON-RPC HTTP authentication feature in 0.3.3 solves this problem.

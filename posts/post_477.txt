@@ -1,0 +1,6 @@
+Re: [PATCH] increase block size limit
+  
+  Bitcointalk
+  
+	2010-10-03 21:07:28 UTC - Original Post
+  Quote from: theymos on October 03, 2010, 08:28:39 PMApplying this patch will make you incompatible with other Bitcoin clients.+1 theymos.  Don't use this patch, it'll make you incompatible with the network, to your own detriment.We can phase in a change later if we get closer to needing it.

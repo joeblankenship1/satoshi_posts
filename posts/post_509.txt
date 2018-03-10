@@ -1,0 +1,6 @@
+Re: OpenCL miner for the masses
+  
+  Bitcointalk
+  
+	2010-11-24 17:53:09 UTC - Original Post
+  A revised version of getwork is now in the official client, but the miners need to be updated a little to use it.

@@ -1,0 +1,6 @@
+Version 0.3.14
+  
+  Bitcointalk
+  
+	2010-10-21 16:39:27 UTC - Original Post
+  Version 0.3.14 is now availablehttp://sourceforge.net/projects/bitcoin/files/Bitcoin/bitcoin-0.3.14/Changes:- Key pool feature for safer wallet backupGavin Andresen:- TEST network mode with switch -testnet- Option to use SSL for JSON-RPC connections on unix/osx- validateaddress RPC commandeurekafag:- Russian translation

@@ -1,0 +1,6 @@
+Version 0.3.8.1 update for Linux 64-bit
+  
+  Bitcointalk
+  
+	2010-08-09 19:46:58 UTC - Original Post
+  When we switched to Crypto++ 5.6.0 SHA-256 in version 0.3.6, generation got broken on the Linux 64-bit build.  Version 0.3.8.1 is on SourceForge with the 64-bit binary updated.Download:http://sourceforge.net/projects/bitcoin/files/Bitcoin/bitcoin-0.3.8/bitcoin-0.3.8.1-linux.tar.gz/downloadFuture versions after 0.3.8 will probably require SSE2.  Anyone have Pentium 3 or older where this would be a problem?

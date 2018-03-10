@@ -1,0 +1,6 @@
+Re: *** ALERT *** version 0.3.6
+  
+  Bitcointalk
+  
+	2010-07-29 20:30:15 UTC - Original Post
+  SVN is updated with version 0.3.6.Uploading Windows build of 0.3.6 to Sourceforge now, then will rebuild linux.

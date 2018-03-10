@@ -1,0 +1,6 @@
+Bitcoin open source implementation of P2P currency
+  
+  P2P Foundation
+  
+	2009-02-15 16:42:00 UTC - Original Post
+  Could be. They're talking about the old Chaumian central mint stuff, but maybe only because that was the only thing available. Maybe they would be interested in going in a new direction.A lot of people automatically dismiss e-currency as a lost cause because of all the companies that failed since the 1990's. I hope it's obvious it was only the centrally controlled nature of those systems that doomed them. I think this is the first time we're trying a decentralized, non-trust-based system.

@@ -1,0 +1,6 @@
+Re: How To Make a Distributed BitCoin Escrow Service
+  
+  Bitcointalk
+  
+	2010-09-26 17:34:26 UTC - Original Post
+  It's not implemented yet, but the network can support a transaction that requires two signatures.  It's described here:http://bitcointalk.org/index.php?topic=750.0It's absolutely safer than a straight payment without escrow, but not as good as a human arbitrated escrow, assuming you trust the human enough.In this kind of escrow, a cheater can't win, but it's still possible for you to lose.  It at least takes away the profit motive for cheating you.  The seller is assured that the money is reserved for him, while the buyer retains the leverage that the seller hasn't been paid yet until completion.

@@ -1,0 +1,6 @@
+Re: A few suggestions
+  
+  Bitcointalk
+  
+	2009-12-12 17:52:44 UTC - Original Post
+  The average total coins generated across the network per day stays the same.  Faster machines just get a larger share than slower machines.  If everyone bought faster machines, they wouldn't get more coins than before.We should have a gentleman's agreement to postpone the GPU arms race as long as we can for the good of the network.  It's much easer to get new users up to speed if they don't have to worry about GPU drivers and compatibility.  It's nice how anyone with just a CPU can compete fairly equally right now.

@@ -1,0 +1,6 @@
+Re: overflow bug SERIOUS
+  
+  Bitcointalk
+  
+	2010-08-16 12:59:38 UTC - Original Post
+  It looks like we overtook the bad chain somewhere around 74689.  0.3.9 and lower nodes have been responding with the current block number for some hours now.That means it's no longer necessary to delete blk*.dat before upgrading.  You can just upgrade and it'll reorg away the bad block chain.Thanks to everyone for the quick response!

@@ -1,0 +1,6 @@
+Re: Website and software translations
+  
+  Bitcointalk
+  
+	2010-10-06 15:42:39 UTC - Original Post
+  poedit reorganised the file for some reason.  I re-ran update from sources and it put it back in the original order so it's fine now.  Did you run it on a drive where files aren't sorted alphabetically, like a FAT drive or USB flash drive?Strings aren't added or changed very often.  It's months before enough changes build up.I uploaded the changes.This Windows build has the Russian translation in it:http://www.bitcoin.org/download/bitcoin-0.3.13.2-win32-setup.exe

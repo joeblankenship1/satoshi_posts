@@ -1,0 +1,6 @@
+Re: Flood attack 0.00000001 BC
+  
+  Bitcointalk
+  
+	2010-08-04 16:25:36 UTC - Original Post
+  Quote from: Insti on August 04, 2010, 02:58:31 PMIt seems to do more harm than good because it prevents micropayment implementations such as the one bytemaster is suggesting.Bitcoin isn't currently practical for very small micropayments.  Not for things like pay per search or per page view without an aggregating mechanism, not things needing to pay less than 0.01.  The dust spam limit is a first try at intentionally trying to prevent overly small micropayments like that.Bitcoin is practical for smaller transactions than are practical with existing payment methods.  Small enough to include what you might call the top of the micropayment range.  But it doesn't claim to be practical for arbitrarily small micropayments. 

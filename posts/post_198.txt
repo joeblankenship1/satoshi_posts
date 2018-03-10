@@ -1,0 +1,6 @@
+Re: Website and software translations
+  
+  Bitcointalk
+  
+	2010-07-15 19:12:14 UTC - Original Post
+  Thanks for the Spanish and French translations!  The edited and updated .po files are attached.I uploaded these to the SVN.

@@ -1,0 +1,6 @@
+Re: Development of alert system
+  
+  Bitcointalk
+  
+	2010-08-25 15:17:37 UTC - Original Post
+  It can't do arbitrary actions remotely.  Maybe some of you are responding to other posters who suggested the alert system should do more?If there is an alert, the following json-rpc methods return an error:sendtoaddressgetbalancegetreceivedbyaddressgetreceivedbylabellistreceivedbyaddresslistreceivedbylabelThe remaining 14 methods function as normal. I believe the safer option should be enabled by default.  If you want your server to keep trading and ignore an alert saying the money its receiving might be like the money from the overflow bug, then you can use the switch and not blame anyone else if you lose your money.Worst case if you leave alerts enabled, your site stops trading until you upgrade or add the -disablesafemode switch.Getting surprised by some temporary down time when your node would otherwise be at risk is better than getting surprised by a thief draining all your inventory.Someday when we haven't found any new bugs for a long time and it has been thoroughly security reviewed without finding anything, this can be scaled back.  I'm not arguing that this is the permanent way of things forever.  It's still beta software.

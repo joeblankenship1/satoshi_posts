@@ -1,0 +1,6 @@
+Re: Bitcoin 0.3.1 released
+  
+  Bitcointalk
+  
+	2010-07-16 21:06:57 UTC - Original Post
+  I uploaded windows 0.3.1 rc1 and linux 0.3.1 rc2 to SourceForge and updated the links on the homepage.You don't need to update to 0.3.1 unless you had one of the problems listed in the first post.  If you've got it working already, stay with 0.3.0.

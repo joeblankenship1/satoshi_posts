@@ -1,0 +1,6 @@
+bitcoind without wxWidgets
+  
+  Bitcointalk
+  
+	2010-07-26 17:23:33 UTC - Original Post
+  I replaced the last of the few wxBase dependencies in bitcoind.bitcoind now compiles without wxWidgets or wxBase in SVN rev 112.main(int argc, char* argv[]) is added to init.cpp.  CMyApp and the Startup folder stuff are moved to ui.cpp.  ui.cpp and uibase.cpp aren't linked by bitcoind.The makefiles have -DGUI to control whether the GUI is used.I test compiled MinGW, VC and Ubuntu.  I don't know if I broke the Mac OSX build, someone will need to check that.

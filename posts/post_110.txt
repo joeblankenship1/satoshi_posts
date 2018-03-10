@@ -1,0 +1,6 @@
+Re: Website translations
+  
+  Bitcointalk
+  
+	2010-05-26 21:16:34 UTC - Original Post
+  Does anyone want to translate the Bitcoin client itself?  It would be great to have at least one other language in the 0.3 release.All you have to do is get poedit and translate the po file I'm attaching to this post.  It's less than 750 words.Updated bitcoin.po attachment for 0.3.1

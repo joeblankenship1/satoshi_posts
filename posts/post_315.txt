@@ -1,0 +1,6 @@
+Re: Building initial transaction trust through "coin ripping"
+  
+  Bitcointalk
+  
+	2010-08-04 00:40:40 UTC - Original Post
+  The software is designed to support things like this.  I was going to post details of the plans for Escrow, but since getting slashdotted I haven't had time.

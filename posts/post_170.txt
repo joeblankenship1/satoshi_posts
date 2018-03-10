@@ -1,0 +1,6 @@
+Re: bitcoin 0.3 win64 - broken access to APPDATA if non-latin characters in username
+  
+  Bitcointalk
+  
+	2010-07-08 18:24:19 UTC - Original Post
+  Thanks for finding that.  We switched from ANSI in 0.2 to UTF-8 in version 0.3, so it must be related to that.Just to confirm, if you log in with the non-latin character username, not having an appdata/Bitcoin directory yet, and run Bitcoin and let it create the database from scratch, does it work or not?

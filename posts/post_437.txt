@@ -1,0 +1,6 @@
+Re: bitcoind as daemon in OSX
+  
+  Bitcointalk
+  
+	2010-09-06 21:52:45 UTC - Original Post
+  Can you build?Try changing line 78 of init.cpp from:#ifdef __WXGTK__to:#ifndef __WXMSW__If that works, I'll change the source.  It should work.

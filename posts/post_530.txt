@@ -1,0 +1,6 @@
+Re: Automated nightly builds
+  
+  Bitcointalk
+  
+	2010-12-09 18:28:45 UTC - Original Post
+  Thanks for setting this up Cdecker.  Is there any chance of getting it to build the GUI version also?  If this is Ubuntu, if you get wxWidgets 2.9.0 it should just be a matter of following the steps in build-unix.txt exactly.  Is this an environment where you can build wxWidgets once and leave it there and just keep using it?

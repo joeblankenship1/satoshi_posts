@@ -1,0 +1,6 @@
+Re: Warning this block was not received by any other nodes
+  
+  Bitcointalk
+  
+	2010-07-14 18:56:29 UTC - Original Post
+  Microsoft Security Essentials Live Protection is blocking your communication with the network.  You have connections, which tricks Bitcoin into thinking it's connected, but they are silent because the data is being blocked.You need to make bitcoin.exe an excluded process in Live Protection.This is becoming a common problem.  Someone should write this up in a pegged thread.The message "Warning: This block was not received by any other nodes" occurs when Bitcoin broadcasts a block, but nobody confirms they received it.  The warning is there just for this kind of situation, where for some reason you have connections, but they have gone dead and nobody can hear you.  Your block will never become valid because nobody received it.

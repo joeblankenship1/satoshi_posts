@@ -1,0 +1,6 @@
+Re: Need OP_BLOCKNUMBER to allow "time" limited transactions
+  
+  Bitcointalk
+  
+	2010-11-15 18:37:44 UTC - Original Post
+  We can't safely do OP_BLOCKNUMBER.  In the event of a block chain reorg after a segmentation, transactions need to be able to get into the chain in a later block.  The OP_BLOCKNUMBER transaction and all its dependants would become invalid.  This wouldn't be fair to later owners of the coins who weren't involved in the time limited transaction.nTimeLock does the reverse.  It's an open transaction that can be replaced with new versions until the deadline.  It can't be recorded until it locks.  The highest version when the deadline hits gets recorded.  It could be used, for example, to write an escrow transaction that will automatically permanently lock and go through unless it is revoked before the deadline.  The feature isn't enabled or used yet, but the support is there so it could be implemented later.

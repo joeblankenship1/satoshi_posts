@@ -1,0 +1,6 @@
+Re: Version 0.3.8.1 update for Linux 64-bit
+  
+  Bitcointalk
+  
+	2010-08-09 20:55:06 UTC - Original Post
+  That's a good point, I believe you could run with generation off if you don't have SSE2.How about add to the top of cryptopp/config.h:#if !defined(_M_X64) && !defined(__x86_64__)#define CRYPTOPP_DISABLE_SSE2  1#endifthat would disable SSE2 for 32-bit builds.  (at least with GCC or MSVC)

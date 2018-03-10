@@ -1,0 +1,6 @@
+Re: Memory leak
+  
+  Bitcointalk
+  
+	2010-09-19 17:22:03 UTC - Original Post
+  Bouncing between 0 and 2 connections could be if it's connecting to itself.  Are you using the "-connect" switch?Did you compile it or is this a release build, and what version? I'm not sure how the 200Kb/sec, since it waits at least a half second between connection attempts.  How fast is it flickering between 0 and 2 connections?  Faster than twice a second?The wait function on linux is:inline void Sleep(int64 n){    boost::thread::sleep(boost::get_system_time() + boost::posix_time::milliseconds(n));}If that doesn't work right, then it would be possible for it to spin through the loop as fast as it can.

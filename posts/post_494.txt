@@ -1,0 +1,6 @@
+Re: Win7 64bit since last patch Tues now crashes
+  
+  Bitcointalk
+  
+	2010-10-23 18:52:02 UTC - Original Post
+  Quote from: Odin on October 22, 2010, 09:24:38 PM  Fault Module Name:   mingwm10.dllThis is the important clue.  I believe it's saying it crashed in that.  Maybe there are other versions of it to try.  mingwm10.dll is just a simple placeholder thing that satisfies some callback requirement for multithreaded apps.Is anyone else running OK on Windows 64-bit?

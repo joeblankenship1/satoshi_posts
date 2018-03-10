@@ -1,0 +1,6 @@
+Re: Odd amount of generated coins
+  
+  Bitcointalk
+  
+	2010-05-26 21:34:32 UTC - Original Post
+  In the SVN version, if a transaction requires a transaction fee, it says"This transaction is over the size limit.  You can still send it for a fee of #,which goes to the nodes that process your transaction and helps to support the network.Do you want to pay the fee?"If you don't have enough money with the fee added, it says"Total exceeds your balance when the # transaction fee is included  "

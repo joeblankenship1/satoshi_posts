@@ -1,0 +1,6 @@
+Bitcoin client and website translation
+  
+  Bitcointalk
+  
+	2010-02-08 01:27:02 UTC - Original Post
+  Thank you for the offer to help translate.  That is probably the best way you could help.I will need to prepare the code for translation first.  wxWidgets has locale support, and most strings are in generated code that is already wrapped, so it shouldn't be too hard.  We also must finish upgrading to wxWidgets-2.9.0 to get UTF-8 support.  I've done test builds with 2.9.0 and there is one bug left to fix. What operating system are you using?  Windows, Linux 32-bit or 64 bit?Split from another thread.sirius-m

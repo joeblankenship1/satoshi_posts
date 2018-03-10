@@ -1,0 +1,6 @@
+Re: Runaway CPU usage for 64bit BitCoin (Linux Client)
+  
+  Bitcointalk
+  
+	2010-07-15 00:18:23 UTC - Original Post
+  OK, the undocumented switch "-minimizetotray" which re-enables the option.I uploaded the change to SVN.

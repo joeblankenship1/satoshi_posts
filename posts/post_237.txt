@@ -1,0 +1,6 @@
+Re: Bitcoin snack machine (fast transaction problem)
+  
+  Bitcointalk
+  
+	2010-07-18 01:59:15 UTC - Original Post
+  Quote from: llama on July 18, 2010, 12:03:29 AMThis is a good start, but still not impermeable.I didn't say impermeable, I said good-enough.  The loss in practice would be far lower than with credit cards.Quote(for example, by refusing to propogate word of the transaction at the vending machine)No, the vending machine talks to a big service provider (aka payment processor) that provides this service to many merchants.  Think something like a credit card processor with a new job.  They would have many well connected network nodes.

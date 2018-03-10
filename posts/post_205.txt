@@ -1,0 +1,6 @@
+Re: "SetIcons(): icon bundle doesn't contain any suitable icon"
+  
+  Bitcointalk
+  
+	2010-07-15 23:41:23 UTC - Original Post
+  Quote from: bdonlan on July 15, 2010, 11:27:14 PMin 120DPI mode. What is "120DPI mode"?  Is that an actual setting somewhere?  Sounds like an obscure enough candidate.  I suppose it needs twice the resolution icon to fill the size of the upper left corner icon.  Only one size is provided.

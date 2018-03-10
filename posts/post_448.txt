@@ -1,0 +1,6 @@
+Re: Running on a port other than 8333
+  
+  Bitcointalk
+  
+	2010-09-12 17:40:20 UTC - Original Post
+  Quote from: lachesis on August 10, 2010, 03:24:55 PMAlso, does Bitcoin open the BerkeleyDB as exclusive, precluding the need for a file lock?It does not -- did my own tests.Is there a way to open BerkeleyDB exclusive?DB_PRIVATE is the worst of both worlds.  DB_PRIVATE is not exclusive, but it does make it get screwed up if another process tries to access it at the same time.I've dropped the DB_PRIVATE flag in rev 153.

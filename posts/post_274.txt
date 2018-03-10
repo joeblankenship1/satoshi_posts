@@ -1,0 +1,6 @@
+Re: JSON-RPC password
+  
+  Bitcointalk
+  
+	2010-07-25 21:51:31 UTC - Original Post
+  Quote from: gavinandresen on July 25, 2010, 09:38:19 PMGreat catch!  Simpler fix is to specify the BIO_FLAGS_BASE64_NO_NL in the rpc.cpp/EncodeBase64 functionSVN rev 111

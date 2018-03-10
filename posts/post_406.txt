@@ -1,0 +1,6 @@
+Re: 28 days without generation, i have 4200khash/s
+  
+  Bitcointalk
+  
+	2010-08-22 23:01:02 UTC - Original Post
+  Search debug.log for "proof-of-work found".  If you find any, then check for any errors right after that.Quote from: davidonpda on August 19, 2010, 07:43:01 PMHow big of a margin on the time is allowed for things to work right.The margin is 2 hours.This should be solved in SVN rev 141 and the next release (0.3.11+).  It'll pop up a message box alerting you if your clock is off by more than an hour.

@@ -1,0 +1,6 @@
+Re: Multiple Wallets, one computer
+  
+  Bitcointalk
+  
+	2010-10-25 16:53:53 UTC - Original Post
+  Here's some pseudocode of how you would use the account based commands.  It sure makes website integration a lot easier.print "send to " + getaccountaddress(username) + " to fund your account"print "balance: " + getbalance(username, 0)print "available balance: " + getbalance(username, 6)// if you make a sale, move the money out of their accountmove(username, "", amount, 6)// withdrawalsendfrom(username, bitcoinaddress, amount, 6)

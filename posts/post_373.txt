@@ -1,0 +1,6 @@
+Re: overflow bug SERIOUS
+  
+  Bitcointalk
+  
+	2010-08-15 23:36:10 UTC - Original Post
+  Starting at 67000 is perfect.  Yeah, at the moment you'll stop at 74638.  It should start slowly creeping up as more nodes upgrade and generate.Linux build links below.The Linux version includes tcatm's 4-way SSE2 SHA-256 that makes generating faster on i5 and AMD CPU's.  Use the "-4way" switch to enable it and check if it's faster for you.Download links:http://www.bitcoin.org/download/bitcoin-0.3.10-win32-setup.exehttp://www.bitcoin.org/download/bitcoin-0.3.10-win32.ziphttp://www.bitcoin.org/download/bitcoin-0.3.10-linux.tar.gzSHA1 16645ec5fcdb35bc54bc7195309a1a81105242bb bitcoin-0.3.10-win32-setup.exeSHA1 4f35ad7711a38fe8c880c6c9beab430824c426d3 bitcoin-0.3.10-win32.zipSHA1 e3fda1ddb31b0d5c35156cacd80dee6ea6ae6423 bitcoin-0.3.10-linux.tar.gz

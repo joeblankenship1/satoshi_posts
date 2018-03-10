@@ -1,0 +1,6 @@
+Re: 0.3 almost ready
+  
+  Bitcointalk
+  
+	2010-06-26 00:32:09 UTC - Original Post
+  Lets try using Laszlo's irc.lfnet.org instead of freenode.  Here's RC2, that's the only change in it:(see below for download links)

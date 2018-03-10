@@ -1,0 +1,6 @@
+Re: *** ALERT *** Upgrade to 0.3.6 ASAP!
+  
+  Bitcointalk
+  
+	2010-07-30 19:53:06 UTC - Original Post
+  Quote from: knightmb on July 30, 2010, 07:24:07 PMI can only imagine the pain you went through to get these builds because I'm trying to build the program on a Ubuntu 9.04 box and so far I can't seem to find all the dependencies to compile no matter how much I keep installing packages and compiling source, LOL.I can't understand why you're having so much pain.  I just followed the instructions in build-unix.txt.  I made a couple little corrections for Boost 1.37, which I'll put on SVN the next time I update it, noted below:Dependencies------------sudo apt-get install build-essentialsudo apt-get install libgtk2.0-devsudo apt-get install libssl-devsudo apt-get install libdb4.7-devsudo apt-get install libdb4.7++-devsudo apt-get install libboost-all-dev (or libboost1.37-dev)wxWidgets---------cd /usr/localtar -xzvf wxWidgets-2.9.0.tar.gzcd /usr/local/wxWidgets-2.9.0mkdir buildgtkcd buildgtk../configure --with-gtk --enable-debug --disable-shared --enable-monolithicmakesudo sumake installldconfigadded a comment in makefile.unix:# for boost 1.37, add -mt to the boost librariesLIBS= \ -Wl,-Bstatic \   -l boost_system \   -l boost_filesystem \   -l boost_program_options \   -l boost_thread \   -l db_cxx \   -l crypto \ -Wl,-Bdynamic \   -l gthread-2.0

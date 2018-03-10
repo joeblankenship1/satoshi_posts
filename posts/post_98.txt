@@ -1,0 +1,6 @@
+Re: For a website taking payments with bitcoins, better: IP or bitcoin addresses?
+  
+  Bitcointalk
+  
+	2010-05-16 21:37:36 UTC - Original Post
+  Quote from: Xunie on May 14, 2010, 09:52:53 PMI suggest we disable IP transactions while the user uses a Proxy!Just to be on the safe side.That's a good idea.  At the very least a warning dialog explaining that it'll connect to the IP and send the information cleartext, giving the chance to cancel.

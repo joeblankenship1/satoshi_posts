@@ -1,0 +1,6 @@
+Re: Version 0.3.13, please upgrade
+  
+  Bitcointalk
+  
+	2010-10-03 21:43:20 UTC - Original Post
+  ShadowOfHarbringer, is yours faster with -4way?If it is, then I'm thinking that any AMD that supports 64-bit has 128-bit SSE2.The specialbuild version I posted here looks for model 4 or higher.  If yours is faster with -4way, then I should change it to always use SSE2 with any AMD with 64-bit.

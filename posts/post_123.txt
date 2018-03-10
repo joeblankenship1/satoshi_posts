@@ -1,0 +1,6 @@
+Re: Website translations
+  
+  Bitcointalk
+  
+	2010-06-16 16:53:34 UTC - Original Post
+  Thanks DataWraith!  The German translation is uploaded to SVN.This is great, we've already got 3 major languages.

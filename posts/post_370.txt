@@ -1,0 +1,6 @@
+Re: overflow bug SERIOUS
+  
+  Bitcointalk
+  
+	2010-08-15 21:40:19 UTC - Original Post
+  Patch is uploaded to SVN rev 132! For now, recommended steps:1) Shut down.2) Download knightmb's blk files.  (replace your blk0001.dat and blkindex.dat files)3) Upgrade.4) It should start out with less than 74000 blocks. Let it redownload the rest.If you don't want to use knightmb's files, you could just delete your blk*.dat files, but it's going to be a lot of load on the network if everyone is downloading the whole block index at once.I'll build releases shortly. 

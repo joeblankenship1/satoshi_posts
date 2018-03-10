@@ -1,0 +1,6 @@
+Re: Version 0.3.13, please upgrade
+  
+  Bitcointalk
+  
+	2010-10-03 19:39:06 UTC - Original Post
+  Could a few people please run this special build?  It'll amnesty the dust spam transactions, which will clear up the 0/unconfirmed problem for now.  We really just need one block letting them through to clear up the previous transactions.  Post if you generate a block with this.These are binaries only.  The linux version is 64-bit only.http://www.bitcoin.org/download/bitcoin-0.3.13.1-specialbuild-win32.ziphttp://www.bitcoin.org/download/bitcoin-0.3.13.1-specialbuild-linux64.tar.gzSHA1 fb7c66270281ed058c570627cf7baff0bdc16e5d bitcoin-0.3.13.1-specialbuild-win32.zipSHA1 9fc44ea5f2109618073e2cfd887e2cc266eb31a9 bitcoin-0.3.13.1-specialbuild-linux64.tar.gzThe linux 64-bit version includes a change to the cpuid 4-way 128-bit SSE2 autodetect for AMD in 64-bit mode, if you'd like to test that and see if that's better.

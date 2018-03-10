@@ -1,0 +1,6 @@
+Re: 0.3.1 release candidate, please test
+  
+  Bitcointalk
+  
+	2010-07-15 22:10:19 UTC - Original Post
+  Quote from: db on July 15, 2010, 08:39:08 PMThe listreceivedbyaddress and getreceivedbyaddress commands are duplicated in bincoind help. (Same in 0.3.0.)Yes a bug.  It'll have to be fixed in the next version.

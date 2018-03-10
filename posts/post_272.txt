@@ -1,0 +1,6 @@
+Re: JSON-RPC password
+  
+  Bitcointalk
+  
+	2010-07-25 21:34:29 UTC - Original Post
+  Quote from: lachesis on July 25, 2010, 07:52:35 PMI found what appears to be a bug: with a long enough username and password combination, the base64 encoder in bitcoind produces authorization headers that look like this:Code:...Authorization: Basic YWJiYWJiYWFiYmE6aGVsbG93b3JsZGhlbGxvd29ybGRoZWxsb3dvcmxkaGVsbG93b3JsZGhlbGxvd29ybGRoZWxsb3dvcmxkIt inserts a newline every 64 characters, which obviously breaks the Authorization header, so commands like "bitcoin getinfo" fail. The server still works fine with properly behaving clients.This can be solved by removing the newlines (and maybe '\r's) from result at the end of the Base64Encode function:Code:result.erase(std::remove(result.begin(), result.end(), '\n'), result.end());result.erase(std::remove(result.begin(), result.end(), '\r'), result.end());+1 to you for having such a long password that you found this bug.Uploaded to SVN as rev 110.

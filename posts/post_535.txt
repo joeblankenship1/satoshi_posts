@@ -1,0 +1,6 @@
+Accounts example code
+  
+  Bitcointalk
+  
+	2010-12-10 19:21:03 UTC - Original Post
+  Some sample pseudocode using the new Accounts based commands in 0.3.18.print "send to " + getaccountaddress(username) + " to fund your account"print "balance: " + getbalance(username, 0)print "available balance: " + getbalance(username, 6)// if you make a sale, move the money from their account to your "" accountif (move(username, "", amount, 6, "purchased item"))    SendTheGoods()// withdrawalsendfrom(username, bitcoinaddress, amount, 6, "withdrawal by user")You can use listtransactions(username) to show them a list of their recent transactions.

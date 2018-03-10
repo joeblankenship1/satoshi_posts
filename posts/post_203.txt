@@ -1,0 +1,6 @@
+Re: Runaway CPU usage for 64bit BitCoin (Linux Client)
+  
+  Bitcointalk
+  
+	2010-07-15 22:22:30 UTC - Original Post
+  The fix for the thread priority level on linux is available in the 0.3.1 release candidate here:http://bitcointalk.org/index.php?topic=383.msg3198#msg3198

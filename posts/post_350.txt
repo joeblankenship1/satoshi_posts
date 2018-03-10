@@ -1,0 +1,6 @@
+Re: Having problems specifing -datadir
+  
+  Bitcointalk
+  
+	2010-08-12 21:43:29 UTC - Original Post
+  Fixed in SVN rev 130.

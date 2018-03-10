@@ -1,0 +1,6 @@
+Re: 0.3.1 release candidate, please test
+  
+  Bitcointalk
+  
+	2010-07-16 15:09:59 UTC - Original Post
+  Because of all the dependencies that different systems don't have.  It's easier to just static link what we can.  It doesn't increase the size by very much.

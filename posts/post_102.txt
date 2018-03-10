@@ -1,0 +1,6 @@
+Re: Setting up multiple bitcoin machines behind NAT
+  
+  Bitcointalk
+  
+	2010-05-16 23:56:03 UTC - Original Post
+  At the moment, it always assumes the incoming port is 8333, so it would tell other bitcoin nodes to connect to router:8333 even if you're redirecting from another port number.I'm not in a big hurry to fix this because I can't think of any benefit to having more than one incoming connection port.  If you're providing one incoming port, then you've done your bit to help the network.  Having two incoming ports to the same person doesn't help redundancy.If you have many computers, then using the -connect switch on most of them to connect locally makes more sense.

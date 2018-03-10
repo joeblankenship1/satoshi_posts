@@ -1,0 +1,6 @@
+Re: Linux distribution download
+  
+  Bitcointalk
+  
+	2010-07-31 14:38:52 UTC - Original Post
+  It can be built with Boost 1.37 or later.
